@@ -1,4 +1,4 @@
-# Demo-Landing-Page
+# Landing-Page
 A landing page with a slider
 
 ## The Look
